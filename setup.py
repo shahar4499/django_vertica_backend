@@ -9,7 +9,4 @@ setup(
     author='tumbler',
     author_email='zimbler@gmail.com',
     description='Vertica backend for Django',
-    install_requires=[
-        'vertica-python>=0.2.4,<0.3'
-    ]
 )
